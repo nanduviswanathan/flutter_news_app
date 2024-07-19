@@ -1,1 +1,1 @@
-#News app using firebase and News api
+#News app using firebase and News api.
